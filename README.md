@@ -4,5 +4,8 @@ Stealthy Chrome Extension Spyware
 # Features
 + Can Build custom extension
 + Can Inject to other extensions
-+ Stealthy
++ Log all inputs
++ Log emails
++ Log visited sites
 + Send captured data to discord
++ Stealthy
