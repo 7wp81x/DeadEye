@@ -1,5 +1,5 @@
 # DeadEye
-Stealthy Chrome Extension Spyware
+Stealthy Chrome Extension Spytool
 
 # Features
 + Can Build custom extension
